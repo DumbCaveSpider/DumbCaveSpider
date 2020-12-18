@@ -2,8 +2,6 @@
 
 My stats looks empty... I'm the worst developer...
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=DumbCaveSpider)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DumbCaveSpider&show_icons=true&theme=radical)
 
-Oh look! It's mostly JavaScript...
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DumbCaveSpider)](https://github.com/anuraghazra/github-readme-stats)
+Thanks for visiting! Most of my projects are private. Sorry. All of the public projects are only for show.
