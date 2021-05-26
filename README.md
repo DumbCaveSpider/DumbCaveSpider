@@ -29,5 +29,7 @@ This is sad but it's true, most of my viewers has broken English and I'm not eve
 <li><a href="https://github.com/DumbCaveSpider/Minecraft-Cloud-Shell">Minecraft Cloud Shell | Server Setup</a></li>
 <li><a href="https://github.com/DumbCaveSpider/Arctic-Temp-Mail">Arctic Temp Mail | Discord Bot</a></li>
  </details>
+ 
 ---
+### 🗣 Visitor Count
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=DumbCaveSpider.DumbCaveSpider" alt="visitors"></p>
