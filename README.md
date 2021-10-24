@@ -2,9 +2,11 @@
 
 ### 🤔 Who are you?
 
-My name is [ArcticWoof](https://arcticwoof.com.au) *(Not DumbCaveSpider, that's my old username from 2016 and I hated it ever since)*. I'm 15 and I don't have a job. I live somewhere is *Southeast-asia*. I hate programming but end up doing it because I'm bored and no one cares at all. I'm just some random idiot who decided to make videos on [YouTube](https://www.youtube.com/arcticwoof) and all my dumb friends thinks I'm smart but in reality just giving me peer presure for real. I started since 2016 and still make horrible videos. Since all of my viewers are those who wants free stuff and doesn't really care about me and end up blowing up by T-series' fanboy. My videos are becoming those Indian tech support on Youtube. This is my fame now...
+My name is [ArcticWoof](https://arcticwoof.com.au) *(Not DumbCaveSpider, that's my old username from 2016 and I hated it ever since)*. I don't have a job. I live somewhere is *Southeast-asia*. I hate programming but end up doing it because I'm bored and no one cares at all. I'm just some random idiot who decided to make videos on [YouTube](https://www.youtube.com/arcticwoof) and all my dumb friends thinks I'm smart but in reality just giving me peer presure for real. I started since 2016 and still make horrible videos. Since all of my viewers are those who wants free stuff and doesn't really care about me and end up blowing up by T-series' fanboy. My videos are becoming those Indian tech support on Youtube. This is my fame now...
 
 *(If you know me personally and in real life, don't fact check everything here, shoo!)*
+
+[btw visit my website](https://arcticwoof.xyz)
 
 ---
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=DumbCaveSpider&theme=dark&show_icons=true">](https://metrics.lecoq.io/DumbCaveSpider?template=classic)
