@@ -1,4 +1,4 @@
 > an idiot
 
-- amature in C, Python, Javascript
-- experience in Shell, Dockerfile
+- amature and learning in C, Python, Javascript
+- inexperience in Shell, Dockerfile, HTML
